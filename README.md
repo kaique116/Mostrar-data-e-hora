@@ -1,3 +1,5 @@
+<img width="1918" height="1018" alt="Testes" src="https://github.com/user-attachments/assets/63a36a8b-124a-46c1-9245-4b3588a8c579" />
+
 # Mostrar-data-e-hora
 Um programa que ao apertar um botão, a data e hora atual é mostrada em uma nova janela
 
